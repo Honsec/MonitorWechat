@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonitorWechat</string>
+    <string name="plz_open_author">请开启使用应用权限的使用，并在任务列表中重新打开应用</string>
+</resources>
